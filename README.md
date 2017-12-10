@@ -10,6 +10,7 @@
 ```
   nodejs 8.9.1
   yarn 1.3.2
+  yarn install
 ```
 
 ## Start Server
